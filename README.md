@@ -1,2 +1,3 @@
 # SkillHub
 A platform for creative dynamic minds to indulge in, where skills in AI information is related...
+https://joshuaschist.github.io/SkillHub
